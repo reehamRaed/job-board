@@ -1,5 +1,3 @@
 {
-  "mongoURI": "mongodb://localhost:27017/xina",
-  "jwtSecret": "jwtSecretToken",
-  "jwtExpiration": 360000
+  "mongoURI": "mongodb://localhost:27017/xina"
 }
